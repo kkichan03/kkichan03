@@ -1,6 +1,11 @@
 ## Hi there 👋
 ...
-- 🌱 I’m currently learning (Github)
+- I like spending my time in a relaxed, unhurried way
+- I like chocolate drinks
+- I tend to have a quiet personality
+- I’m currently learning (Github)
+- Let’s study hard together, whatever it may be
+
 <!--
 **kkichan03/kkichan03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
